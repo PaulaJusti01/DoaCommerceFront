@@ -32,13 +32,6 @@
               "./node_modules/bootstrap/dist/js/bootstrap.js",
               "./node_modules/popper.js/dist/umd/popper.min.js"
               ]
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-            
->>>>>>> home-paula
-=======
->>>>>>> contato-Carol
           },
           "configurations": {
             "production": {
@@ -135,10 +128,6 @@
   },
   "defaultProject": "doaCommerce",
   "cli": {
-<<<<<<< HEAD
     "analytics": "baa903a5-d153-41bf-8d0b-db45c9f5c533"
-=======
-    "analytics": false
->>>>>>> contato-Carol
   }
 }
